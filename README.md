@@ -1,1 +1,1 @@
-# Connect_4_usinng_RL
+# Connect_4_using_RL
