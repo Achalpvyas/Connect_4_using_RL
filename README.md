@@ -12,4 +12,11 @@ To see if it works, run one of the included examples:
 ```
 python3 -m pygame.examples.aliens
 ```
+### Run the code
 
+Enter the following to run the code.
+
+```
+cd code
+python3 connect_4_using_RL.py
+```
